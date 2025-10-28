@@ -110,7 +110,6 @@ c.close()
 s.close()
 
 ```
-
 ### client
 ```python
 import socket
@@ -126,11 +125,8 @@ while True:
     print(f"IP Address for {mac}: {ip}")
 c.close()
 
-
 ```
-
 ## OUTPUT -RARP
-
 ### server
 <img width="516" height="367" alt="Screenshot 2025-10-13 153303" src="https://github.com/user-attachments/assets/c6adf9ec-6144-4394-a1ba-fa26deda97a0" />
 
